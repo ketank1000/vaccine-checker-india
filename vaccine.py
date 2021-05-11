@@ -35,7 +35,7 @@ engine = pyttsx3.init()
 # set voice settings
 voices = engine.getProperty('voices')
 engine.setProperty('volume',1.0) 
-engine.setProperty('voice', voices[33].id)
+engine.setProperty('voice', voices[0].id)
 
 
 def main():

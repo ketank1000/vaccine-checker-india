@@ -7,7 +7,7 @@ Script to check availability of covid-19 vaccines in India with Voice alert. Voi
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install required packages.
 
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 ## Help

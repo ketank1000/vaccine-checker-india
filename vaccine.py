@@ -33,9 +33,9 @@ pp = pprint.PrettyPrinter(indent=4)
 engine = pyttsx3.init()
 
 # set voice settings
-voices = engine.getProperty('voices')
-engine.setProperty('volume',1.0) 
-engine.setProperty('voice', voices[0].id)
+#voices = engine.getProperty('voices')
+#engine.setProperty('volume',1.0) 
+#engine.setProperty('voice', voices[0].id)
 
 
 def main():
